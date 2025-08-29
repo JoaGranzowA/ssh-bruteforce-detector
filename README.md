@@ -21,3 +21,12 @@ git clone https://github.com/JoaGranzowA/ssh-bruteforce-detector.git
 cd ssh-bruteforce-detector
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
+
+## 📸 Ejemplos de uso
+
+### Ejecución del detector
+![Ejemplo de salida](assets/example-output.png)
+
+### Datos guardados en CSV
+![CSV sample](assets/csv-sample.png)
+
