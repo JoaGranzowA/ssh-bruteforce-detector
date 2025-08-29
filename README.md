@@ -24,9 +24,8 @@ pip install -r requirements.txt
 
 ## 📸 Ejemplos de uso
 
-### Ejecución del detector
+### 🔎 Ejecución del detector
 ![Ejemplo de salida](assets/example-output.png)
 
-### Datos guardados en CSV
+### 📊 Datos guardados en CSV
 ![CSV sample](assets/csv-sample.png)
-
